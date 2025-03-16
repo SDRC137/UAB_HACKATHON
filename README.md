@@ -19,6 +19,8 @@ De acuerdo con el informe de la CEPAL, las PyMEs enfrentan diversos desafíos:
 
 ### Nuestra Solución: Plataforma de IA Responsable para PyMEs
 
+![Dashboard](dashboard.png)
+
 Para abordar estos desafíos, proponemos una plataforma basada en inteligencia artificial (IA) responsable que brinde apoyo estratégico a las PyMEs mediante:
 
 #### 1. Acceso a financiamiento inteligente
