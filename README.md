@@ -34,14 +34,17 @@ La IA analiza datos financieros y operativos de las PyMEs para generar perfiles 
 La plataforma ofrece herramientas para la automatización, análisis de datos y apoyo en la toma de decisiones, con el objetivo de mejorar la eficiencia y competitividad de las PyMEs.
 
 ![Gestion](gestion1.png)
+![Gestion](gestion2.png)
+![Gestion](gestion3.png)
+![Gestion](image-1.png)
 
-#### 3. Integración con cadenas de valor y mercados internacionales
+#### 3. Crecimiento y escalabilidad, predicción de KPIs, tendencias de mercado, análisis de datos y búsqueda de empleados
 
-Mediante algoritmos de emparejamiento inteligente, conectamos a las PyMEs con oportunidades de negocio, compradores y socios estratégicos.
+A través de modelos inteligentes , ayudamos a las PyMEs a identificar oportunidades de negocio, predecir KPIs clave, analizar tendencias de mercado y optimizar la búsqueda de empleados para fomentar su crecimiento y escalabilidad.
 
-#### 4. Personalización del soporte y capacitación
+#### 4. Sistema de trust score personalizado
 
-Ofrecemos recomendaciones personalizadas sobre capacitaciones, regulaciones y mejores prácticas adaptadas a cada sector y país.
+Se ofrece un sistema de trust score personalizado que incluye la evolución histórica, distribución por categorías y otros parámetros relevantes, para proporcionar una evaluación detallada y adaptada a las necesidades de cada PyME.
 
 #### 5. Fomento de una IA responsable y transparente
 
