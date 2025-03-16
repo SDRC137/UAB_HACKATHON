@@ -27,9 +27,13 @@ Para abordar estos desafíos, proponemos una plataforma basada en inteligencia a
 
 La IA analiza datos financieros y operativos de las PyMEs para generar perfiles de riesgo más precisos, permitiendo que bancos e inversores ofrezcan créditos con condiciones adaptadas a cada empresa.
 
-#### 2. Optimización de procesos y digitalización
+![Financiamiento Inteligente](financiamiento.png)
 
-La plataforma proporciona herramientas de automatización, análisis de datos y asistencia en la toma de decisiones para mejorar la eficiencia y competitividad de las PyMEs.
+#### 2. Gestión empresarial y digitalización
+
+La plataforma ofrece herramientas para la automatización, análisis de datos y apoyo en la toma de decisiones, con el objetivo de mejorar la eficiencia y competitividad de las PyMEs.
+
+![Gestion](gestion1.png)
 
 #### 3. Integración con cadenas de valor y mercados internacionales
 
