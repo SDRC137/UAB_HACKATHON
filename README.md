@@ -2,8 +2,11 @@
 Porks In Paris solution to PayRetailers challenge
 
 Problemática de las PyMEs en Latinoamérica
-El desafío de la supervivencia empresarial
-En América Latina, las Pequeñas y Medianas Empresas (PyMEs) constituyen más del 90% del tejido empresarial y generan aproximadamente el 67% del empleo formal en la región. Sin embargo, enfrentan una realidad alarmante: su tasa de mortalidad es extremadamente alta, con aproximadamente un 70% de las PyMEs desapareciendo antes de cumplir cinco años de operación.
+El desafío de la supervivencia empresarial:
+
+En América Latina, las Pequeñas y Medianas Empresas (PyMEs) constituyen más del 90% del tejido empresarial y generan aproximadamente el 67% del empleo formal en la región. Sin embargo, enfrentan una realidad alarmante: su tasa de mortalidad es extremadamente alta, con aproximadamente un 50% de las PyMEs desapareciendo antes de cumplir dos años de operación.
+
+![PyME360 Logo](image.png)
 
 Esta elevada tasa de fracaso se debe a múltiples factores interconectados:
 
