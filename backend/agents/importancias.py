@@ -333,9 +333,10 @@ Indica cuántos datos faltan por variable.
 }
 
 
-Recomendaciones para Mejorar la PyME
-El análisis revela información clave para optimizar el negocio:
+Recomendaciones para Mejorar la PyME:
 
+El análisis revela información clave para optimizar el negocio:
+Céntrate en realizar recomnedaciones que esten relacionadas con los datos obtenidos, no en detalles de prediccion, como en el ejemplo siguiente:
 {
   "recomendaciones": [
     "El modelo muestra que la variable 'Sexo' es una de las más influyentes. Si tu negocio se enfoca en clientes de diferentes géneros, podrías personalizar ofertas específicas.",
