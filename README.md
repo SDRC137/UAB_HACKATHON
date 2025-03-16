@@ -42,13 +42,22 @@ La plataforma ofrece herramientas para la automatización, análisis de datos y 
 
 A través de modelos inteligentes , ayudamos a las PyMEs a identificar oportunidades de negocio, predecir KPIs clave, analizar tendencias de mercado y optimizar la búsqueda de empleados para fomentar su crecimiento y escalabilidad.
 
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+
 #### 4. Sistema de trust score personalizado
 
 Se ofrece un sistema de trust score personalizado que incluye la evolución histórica, distribución por categorías y otros parámetros relevantes, para proporcionar una evaluación detallada y adaptada a las necesidades de cada PyME.
 
+![alt text](image-6.png)
+
 #### 5. Fomento de una IA responsable y transparente
 
 Garantizamos el uso ético de la IA, evitando sesgos algorítmicos y asegurando la protección de datos de las PyMEs.
+
+![alt text](image-7.png)
 
 ### Impacto Esperado
 
